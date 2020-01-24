@@ -140,6 +140,7 @@ Some useful operators include:
       * multiplication
       / division
       
+      more operators can be found: `https://www.w3schools.com/php/php_operators.asp`
       
   ## If, else, elseif
   
